@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @divya7005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey! 👋
+I'm Divya Acharya!
+
+Currently: MS CS Student at Lj University .
+
+💻 I'm Currently workng on
+Software Engineering
 
 <!---
 divya7005/divya7005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

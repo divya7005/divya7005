@@ -1,10 +1,10 @@
-Hey! 👋
-I'm Divya Acharya!
+Hi, I'm Divya Acharya, I currently study BSC_IT. I specialize in web development, with expertise in languages like JavaScript, Python, and HTML.
 
-Currently: MS CS Student at Lj University .
+I have contributed to several open-source projects, including React, Django, Laravel, and Angular. I am always looking for new opportunities to collaborate and build cool things with other developers.
 
-💻 I'm Currently workng on
-Software Engineering
+In my free time, I enjoy tinkering with Raspberry Pi projects and participating in hackathons. I'm also a big fan of indie games and have created a few myself.
+
+Feel free to check out my GitHub repositories and get in touch if you have any questions or would like to collaborate on a project together. Thanks for stopping by!
 
 
 <!---
